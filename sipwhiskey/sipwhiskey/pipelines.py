@@ -10,7 +10,7 @@ class SipwhiskeyPipeline:
             host = '34.132.53.100',
             user ="byron",
             database = 'database',
-            password = 'mpendakuma001',
+            password = '******',
         )
         
         self.cur = self.con.cursor()
